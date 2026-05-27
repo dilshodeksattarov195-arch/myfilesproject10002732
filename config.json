@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspelete",
+        "uuid": 26549576,
+        "checksum": "eyi7km"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
